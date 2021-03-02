@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Что является столицей Дагестана?",
+      "optionOne": "Махачкала",
+      "optionTwo": "Каспийск",
+      "optionThree": "Дербент",
+      "optionFour": "Кизляр",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Татарстана?",
+      "optionOne": "Казань",
+      "optionTwo": "Уфа",
+      "optionThree": "Набережные Челны",
+      "optionFour": "Елабуга",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей России?",
+      "optionOne": "Москва",
+      "optionTwo": "Санкт-Петербург",
+      "optionThree": "Нижний Новгород",
+      "optionFour": "Екатеринбург",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Саудовской Аравии?",
+      "optionOne": "Эр-Рияд",
+      "optionTwo": "Багдад",
+      "optionThree": "Тегеран",
+      "optionFour": "Доха",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Германии?",
+      "optionOne": "Берлин",
+      "optionTwo": "Мюнхен",
+      "optionThree": "Кельн",
+      "optionFour": "Дортмунд",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Франции?",
+      "optionOne": "Париж",
+      "optionTwo": "Марсель",
+      "optionThree": "Ницца",
+      "optionFour": "Лион",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей США?",
+      "optionOne": "Вашингтон",
+      "optionTwo": "Нью-Йорк",
+      "optionThree": "Лос-Анджелес",
+      "optionFour": "Сан-Хосе",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Испании?",
+      "optionOne": "Мадрид",
+      "optionTwo": "Барселона",
+      "optionThree": "Севилья",
+      "optionFour": "Сарагоса",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Англии?",
+      "optionOne": "Лондон",
+      "optionTwo": "Манчестер",
+      "optionThree": "Ливерпуль",
+      "optionFour": "Бирмингем",
+      "correctAnswer": 1
+    },
+    {
+      "id": 1,
+      "question": "Что является столицей Италии?",
+      "optionOne": "Рим",
+      "optionTwo": "Милан",
+      "optionThree": "Турин",
+      "optionFour": "Флоренция",
+      "correctAnswer": 1
+    }
+  ]
+}
