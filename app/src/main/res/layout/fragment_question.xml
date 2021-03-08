@@ -20,9 +20,16 @@
             android:layout_margin="10dp"
             android:gravity="center"
             android:textColor="#363A43"
-            android:textSize="46sp"
+            android:textSize="22sp"
             tools:text="What country does this flag belong to?" />
 
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:contentDescription="image"
+            tools:src="@drawable/ic_flag_of_germany" />
 
         <LinearLayout
             android:id="@+id/ll_progress_details"
